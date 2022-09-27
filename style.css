@@ -1,0 +1,38 @@
+* {
+    background: url('./tree1.jpg');
+    position: initial;
+}    
+
+div p {
+    
+    color: red;
+    background-color: rgb(145, 236, 214);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+div h1 {
+    color: rgb(5, 94, 64);
+    background-color: bisque;
+    font-size: 40px;
+    font-style: inherit;
+    font-family: initial;
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+
+div h2 {
+    background-color: yellowgreen;
+    color: rgb(5, 128, 128);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+}

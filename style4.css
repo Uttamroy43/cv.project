@@ -1,0 +1,27 @@
+.div1 {
+    background-color: aquamarine;
+    width: 50%;
+    height: 300px;
+    box-sizing: border-box;
+    padding: 5px;
+    float: left;
+
+    
+}
+.div2 {
+    background-color: aqua;
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.img {
+    height: 300px;
+    width: 500px;
+    opacity: 0.5;
+}
+
+.img:hover {
+    opacity: 1;
+}

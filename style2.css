@@ -1,0 +1,61 @@
+
+/*...background change css no work this is....*/
+/*....background change start.....*/
+
+.body {
+    background-color: wheat;
+    background-image: url(tree1.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: 100%;
+    background-attachment: fixed;
+    color: white;
+   
+
+}
+.demo {
+    text-align: center;
+    color: aquamarine;
+    padding: 30px;
+    margin: 5px;
+    border: 2px;
+
+}
+/*....background change end.....*/
+k/*....float use start.....*/
+
+ body 
+ {
+    background: #fff2ff;
+ }
+    #section1{
+        float: left;
+        background-color: aquamarine;
+
+}
+
+
+
+  
+    #section2 {
+        float: right;
+        background-color: aquamarine;
+
+
+    }
+
+    #clear-div {
+        clear: both;
+    }
+
+
+
+    #section3 {
+              background-color: green;
+    }
+
+
+   /*....float use End.....*/
+
+   /*....float use start.....*/
+
